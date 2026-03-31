@@ -19,12 +19,12 @@
 
 /** @type {Table[]} */
 export const tables = [
-  { id: "T01", seats: 2, status: "Available", zone: "Window",  shape: "circle",  width: "20%",    height: "26%",   top: "12%", left: "6%"  },
-  { id: "T02", seats: 4, status: "Occupied",  zone: "Center",  shape: "rounded", width: "28%",    height: "26%",   top: "14%", left: "34%" },
-  { id: "T03", seats: 6, status: "Cleaning",  zone: "Terrace", shape: "rounded", width: "27%",    height: "28%",   top: "46%", left: "6%"  },
-  { id: "T04", seats: 2, status: "Available", zone: "Window",  shape: "circle",  width: "21%",    height: "27%",   top: "47%", left: "56%" },
-  { id: "T05", seats: 8, status: "Occupied",  zone: "Private", shape: "rounded", width: "34%",    height: "26%",   top: "75%", left: "6%"  },
-  { id: "T06", seats: 4, status: "Available", zone: "Bar",     shape: "rounded", width: "19%",    height: "24%",   top: "73%", left: "76%" },
+  { id: "T01", seats: 2, status: "Available", zone: "Window",  shape: "circle"  },
+  { id: "T02", seats: 4, status: "Occupied",  zone: "Center",  shape: "rounded" },
+  { id: "T03", seats: 6, status: "Cleaning",  zone: "Terrace", shape: "rounded" },
+  { id: "T04", seats: 2, status: "Available", zone: "Window",  shape: "circle"  },
+  { id: "T05", seats: 8, status: "Occupied",  zone: "Private", shape: "rounded" },
+  { id: "T06", seats: 4, status: "Available", zone: "Bar",     shape: "rounded" },
 ];
 
 
